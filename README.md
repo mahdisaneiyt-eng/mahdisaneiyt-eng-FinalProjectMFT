@@ -18,8 +18,6 @@ A C# CRUD project developed as the final project of the C# course at **MFTPlus**
 
 ## 👨‍🏫 **Mr. Ali Mohammad Bahmanyari**
 
-**C# Instructor | MFTPlus**
-
 A special thank you for your valuable teaching, guidance, and support throughout this course.
 
 **With Respect and Appreciation ❤️**
