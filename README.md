@@ -5,15 +5,21 @@ A C# CRUD project developed as the final project of the C# course at **MFTPlus**
 ### 📌 Features
 - 👤 Person Management
 - 📦 Product Management
-- Insert, Update & Delete operations
+- Create, Read, Update & Delete operations
 
 ### 🛠️ Technologies
 - C#
 - .NET
 - OOP
 
-### 🙏 Special Thanks
+---
 
-My sincere thanks to **Mr. Ali Mohammad Bahmanyari**, my instructor at **MFTPlus**, for his valuable teaching, guidance, and support throughout the course.
+# 🌟 SPECIAL THANKS
 
-**With respect and appreciation. ❤️**
+## 👨‍🏫 **Mr. Ali Mohammad Bahmanyari**
+
+**C# Instructor | MFTPlus**
+
+A special thank you for your valuable teaching, guidance, and support throughout this course.
+
+**With Respect and Appreciation ❤️**
