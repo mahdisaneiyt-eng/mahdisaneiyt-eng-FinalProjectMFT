@@ -5,7 +5,7 @@ A C# CRUD project developed as the final project of the C# course at **MFTPlus**
 ### 📌 Features
 - 👤 Person Management
 - 📦 Product Management
-- Create, Read, Update & Delete operations
+- Insert, Update & Delete operations
 
 ### 🛠️ Technologies
 - C#
